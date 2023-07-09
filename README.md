@@ -1,6 +1,6 @@
 <h1 align="center">"My Oshi" Public License</h1>
 <h2 align="center">Version 1.0, Copyright (c) 2023</h2>
-<text align="center">All are permitted to use and modify this license to their needs.</text>
+<h4 align="center">All are permitted to use and modify this license to their needs.</h4>
 
 <h3>Definitions:<h3>
 + Oshi - One's favorite and/or most strongly supported celebrity, idol, streamer (including but not limited to VTubers). A term stemming from Japanese idol culture. One's Oshi is entirely self-proclaimed, meaning that whomever one claims is their Oshi, therefore is their Oshi (including having no Oshi at all). Ex: "Ceres Fauna is my Oshi, I enjoy her streams more than anyone else's!"
