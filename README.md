@@ -3,9 +3,9 @@
 <h4 align="center">All are permitted to use and modify this license to their needs.</h4>
 
 <h3>Definitions:<h3>
+  
 + Oshi - One's favorite and/or most strongly supported celebrity, idol, streamer (including but not limited to VTubers). A term stemming from Japanese idol culture. One's Oshi is entirely self-proclaimed, meaning that whomever one claims is their Oshi, therefore is their Oshi (including having no Oshi at all). Ex: "Ceres Fauna is my Oshi, I enjoy her streams more than anyone else's!"
 + Dare Demo Daisuki (or, "DD") - One who has and supports multiple Oshis, essentially having a group of favorite celebrities/idols/streamers/VTubers. Ex: "All of the HoloPro members are amazing! I guess I'm a Dare Demo Daisuki since I like them all and can't pick a favorite."
-
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
