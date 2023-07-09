@@ -4,7 +4,6 @@
 
 <h3>Definitions:<h3>
 + Oshi - One's favorite and/or most strongly supported celebrity, idol, streamer (including but not limited to VTubers). A term stemming from Japanese idol culture. One's Oshi is entirely self-proclaimed, meaning that whomever one claims is their Oshi, therefore is their Oshi (including having no Oshi at all). Ex: "Ceres Fauna is my Oshi, I enjoy her streams more than anyone else's!"
-
 + Dare Demo Daisuki (or, "DD") - One who has and supports multiple Oshis, essentially having a group of favorite celebrities/idols/streamers/VTubers. Ex: "All of the HoloPro members are amazing! I guess I'm a Dare Demo Daisuki since I like them all and can't pick a favorite."
 
 
