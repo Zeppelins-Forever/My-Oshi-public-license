@@ -1,5 +1,5 @@
 <h1 align="center">"My Oshi" Public License</h1>
-<h4 align="center">Version 1.0, Copyright (c) 2023</h2>
+<h4 align="center">Version 1.0.0, Copyright (c) 2023</h2>
 <h4 align="center">All are permitted to use and modify this license to their needs.</h4>
 
 <h3>Definitions:<h3>
